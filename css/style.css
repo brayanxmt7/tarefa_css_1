@@ -3,14 +3,12 @@
     margin: 0;
     box-sizing: 0;
 }
-.titulo{
-    font-family: Arial, Helvetica, sans-serif;
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 100px;
     font-style: italic;
     font-weight: 100;
     color: rgb(158, 36, 44);
-}
-.texto{
-front-family: "Libertimus Sans", sans-serif;
-front-weight: 600;
+    text-align: center;
 }
